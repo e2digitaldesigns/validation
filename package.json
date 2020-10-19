@@ -1,12 +1,19 @@
 {
-  "name": "validation",
+  "name": "e2ps-validation",
   "version": "1.0.0",
   "description": "Private Validation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e2digitaldesigns/validation.git"
+  },
   "author": "C. Eugene Bey",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e2digitaldesigns/validations#issues"
+  },
   "homepage": "https://github.com/e2digitaldesigns/validations#readme"
 }
