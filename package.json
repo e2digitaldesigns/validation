@@ -1,6 +1,6 @@
 {
   "name": "e2ps-validation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Private Validation",
   "main": "index.js",
   "scripts": {
